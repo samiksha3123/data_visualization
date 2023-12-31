@@ -1,14 +1,2 @@
-This is the heart_failure_clinical_records data set which  contains information related to heart health and potential heart failure.
-age: Age of the patient.
-anaemia: Indicates whether the patient has anemia (1 for yes, 0 for no).
-creatinine_phosphokinase: Level of the enzyme CPK in the blood (measured in mcg/L).
-diabetes: Indicates whether the patient has diabetes (1 for yes, 0 for no).
-ejection_fraction: Percentage of blood leaving the heart at each contraction.
-high_blood_pressure: Indicates whether the patient has high blood pressure (1 for yes, 0 for no).
-platelets: Platelet count in the blood (measured in kiloplatelets/mL).
-serum_creatinine: Level of serum creatinine in the blood (measured in mg/dL).
-serum_sodium: Level of serum sodium in the blood (measured in mEq/L).
-sex: Gender of the patient (1 for male, 0 for female).
-smoking: Indicates whether the patient smokes (1 for yes, 0 for no).
-time: Follow-up period (measured in days).
-DEATH_EVENT: Indicates whether the patient experienced a death event (1 for yes, 0 for no).
+This is the heart_failure_clinical_records data set which  contains information about different aspects of patients' health, such as their age, blood pressure, blood test results (like creatinine levels), and lifestyle factors (like smoking).The dataset is valuable for studying and predicting heart failure outcomes based on various patient characteristics, ultimately contributing to a better understanding of the factors influencing heart health and patient outcomes.
+
